@@ -62,15 +62,19 @@ The script generates the following outputs:
 ## Example Workflow
 
 1. **Input Image**:
+   
    ![image](https://github.com/user-attachments/assets/e6c70cc3-11b3-4146-8e31-1e895d1e3667)
 
-2. **Median Filtered Image**:
+3. **Median Filtered Image**:
+   
    ![image](https://github.com/user-attachments/assets/14a799a6-0483-4d83-aa97-ed182ebfe670)
 
-3. **CLAHE Enhanced Image**:
+5. **CLAHE Enhanced Image**:
+   
    ![image](https://github.com/user-attachments/assets/e086b386-f8ab-421d-98c2-b484e62f5c4f)
 
-4. **Gamma Corrected Image**:
+7. **Gamma Corrected Image**:
+   
    ![image](https://github.com/user-attachments/assets/2fe9dc74-bbf7-485b-8433-204b4929abd3)
 
 ## Customization
